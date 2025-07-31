@@ -1,0 +1,10 @@
+whisper
+deepface
+opencv-python
+numpy
+scikit-learn
+gTTS
+pydub
+torch
+transformers
+deep-translator
